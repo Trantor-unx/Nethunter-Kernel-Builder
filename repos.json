@@ -1,9 +1,10 @@
-[  {
+[
+  {
     "kernelSource": {
-      "name": "MikasaNethunter",
-      "repo": "https://github.com/noophyy/mikasa_kernel_realme2_c1.git",
-      "branch": "Light",
-      "device": "mikasa"
+      "name": "Kimsultech",
+      "repo": "https://github.com/kimsultech/android_kernel_xiaomi_msm8953-4.9.git",
+      "branch": "PWR",
+      "device": "vince"
     },
     "withKernelSU": false,
     "toolchains": [
